@@ -1,0 +1,5 @@
+boto3
+awscli
+
+
+# pip install -r requirements.txt
