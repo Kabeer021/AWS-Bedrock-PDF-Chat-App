@@ -46,3 +46,11 @@ Document Processing	PyPDFDirectoryLoader, RecursiveCharacterTextSplitter
 
 <img width="1024" height="535" alt="image" src="https://github.com/user-attachments/assets/c8f51685-55c8-44a4-88ec-56499b9d2c51" />
 
+
+# LLama for general answering
+
+<img width="953" height="1036" alt="Screenshot 2025-11-01 164412" src="https://github.com/user-attachments/assets/f433fb5a-6222-4723-a2f0-956373dc8af4" />
+
+
+
+<img width="961" height="1030" alt="Screenshot 2025-11-01 164521" src="https://github.com/user-attachments/assets/b5706138-0ac6-47cd-84bd-8fe59a8f5d02" />
