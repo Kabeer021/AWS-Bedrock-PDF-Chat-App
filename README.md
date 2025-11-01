@@ -44,5 +44,5 @@ Document Processing	PyPDFDirectoryLoader, RecursiveCharacterTextSplitter
 
   The retrieved context is passed to the Bedrock LLM.
 
-  The LLM generates a detailed, context-aware response.
-  <img width="1912" height="976" alt="image" src="https://github.com/user-attachments/assets/a295404b-8955-4170-9cf9-38caebf27e05" />
+<img width="1024" height="535" alt="image" src="https://github.com/user-attachments/assets/c8f51685-55c8-44a4-88ec-56499b9d2c51" />
+
