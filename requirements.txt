@@ -1,5 +1,7 @@
 boto3
 awscli
+pypdf
+langchain
+streamlit
+faiss-cpu
 
-
-# pip install -r requirements.txt
