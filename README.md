@@ -44,10 +44,16 @@ Document Processing	PyPDFDirectoryLoader, RecursiveCharacterTextSplitter
 
   The retrieved context is passed to the Bedrock LLM.
 
-<img width="1024" height="535" alt="image" src="https://github.com/user-attachments/assets/c8f51685-55c8-44a4-88ec-56499b9d2c51" />
+  <img width="1919" height="1035" alt="image" src="https://github.com/user-attachments/assets/376d8681-3a60-4df1-aab9-ab00b4274c8a" />
+
+# LLama output
+<img width="1907" height="1041" alt="image" src="https://github.com/user-attachments/assets/43c7def1-f173-470f-bf85-a6f40d8d6d8c" />
+
+# Mistral Output
+<img width="1910" height="1036" alt="Screenshot 2025-11-11 143224" src="https://github.com/user-attachments/assets/9f78fb03-815f-4e62-81b4-2b1845c68b8b" />
 
 
-# LLama 
+### LLama 
 
 <img width="953" height="1036" alt="Screenshot 2025-11-01 164412" src="https://github.com/user-attachments/assets/f433fb5a-6222-4723-a2f0-956373dc8af4" />
 
