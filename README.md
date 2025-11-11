@@ -52,11 +52,3 @@ Document Processing	PyPDFDirectoryLoader, RecursiveCharacterTextSplitter
 # Mistral Output
 <img width="1910" height="1036" alt="Screenshot 2025-11-11 143224" src="https://github.com/user-attachments/assets/9f78fb03-815f-4e62-81b4-2b1845c68b8b" />
 
-
-### LLama 
-
-<img width="953" height="1036" alt="Screenshot 2025-11-01 164412" src="https://github.com/user-attachments/assets/f433fb5a-6222-4723-a2f0-956373dc8af4" />
-
-
-
-<img width="961" height="1030" alt="Screenshot 2025-11-01 164521" src="https://github.com/user-attachments/assets/b5706138-0ac6-47cd-84bd-8fe59a8f5d02" />
